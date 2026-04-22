@@ -1,0 +1,1 @@
+# 202505069_Actividad10_Asertiva_A
