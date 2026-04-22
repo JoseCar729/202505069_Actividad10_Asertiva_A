@@ -1,3 +1,6 @@
+Nombre: Jose Carlos González López
+Carnet: 202505069
+
 # Micropropuesta: Adopción de una herramienta de gestión de tareas
 
 ## 1. Problema
@@ -45,3 +48,6 @@ La adopción de esta herramienta generará múltiples beneficios:
 ## Conclusión
 
 Adoptar una herramienta de gestión de tareas no solo resolverá los problemas actuales de organización, sino que también permitirá al equipo trabajar de forma más eficiente, coordinada y profesional. La implementación es sencilla y los beneficios son inmediatos, por lo que se recomienda su adopción a corto plazo.
+
+## Captura Evaluación DTT
+<img width="1920" height="1080" alt="Captura de pantalla (214)" src="https://github.com/user-attachments/assets/3850d3df-e695-44a7-b74c-224bd5bcd748" />
