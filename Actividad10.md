@@ -1,4 +1,5 @@
 Nombre: Jose Carlos González López
+
 Carnet: 202505069
 
 # Micropropuesta: Adopción de una herramienta de gestión de tareas
